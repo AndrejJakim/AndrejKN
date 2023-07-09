@@ -56,7 +56,7 @@ body > div > div.travel > h1:nth-child(8){
     }
 }
 p.slideLeft{
-  animation-delay: 1s;
+  animation: slideLeft 1s linear forwards;
 }
 body{
     background-image: url("./images/background.svg");
@@ -95,7 +95,6 @@ body > div > div.navbar > ul > li:nth-child(5) > a{
 }
 .footer{
     width: 100%;
-    margin-top: 10%;
 }
 .footer ul{
     text-align: center;
@@ -338,15 +337,18 @@ body > div > section > div.container > div.contactInfo > div:nth-child(3) > div.
     width: 30%;
     height: auto;
     margin-left: 4%;
+    animation: slideLeft 1s linear forwards;
 }
 .pictureRight{
     width: 30%;
     height: auto;
     margin-right: 4%;
+    animation: slideLeft 1s linear forwards;
 }
 .pictureMiddle{
     width: 30%;
     height: auto;
+    animation: slideLeft 1s linear forwards;
 }
 .computer{
     width: 40%;
@@ -354,6 +356,7 @@ body > div > section > div.container > div.contactInfo > div:nth-child(3) > div.
     margin-left: 30%;
     margin-right: 10%;
     margin-top: 5%;
+    animation: slideLeft 1s linear forwards;
 }
 .experience{
     padding-top: 15px;
@@ -374,14 +377,17 @@ body > div > section > div.container > div.contactInfo > div:nth-child(3) > div.
 .computerIMG{
     margin: auto;
     display: block;
+    animation: slideLeft 1s linear forwards;
 }
 .slikaLevo{
     width: 45%;
     height: auto;
     margin-left: 5%;
+    animation: slideLeft 1s linear forwards;
 }
 .slikaDesno{
     width: 45%;
     height: auto;
     margin-right: 4%;
+    animation: slideLeft 1s linear forwards;
 }
