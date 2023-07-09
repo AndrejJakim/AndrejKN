@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 .glaven{
-    width: 70%;
+    width: 100%;
     margin: auto;
 }
 body > div > div.sredina > div.introduction > h1{
@@ -95,7 +95,7 @@ body > div > div.navbar > ul > li:nth-child(5) > a{
 }
 .footer{
     width: 100%;
-    margin-top: 25%;
+    margin-top: 20%;
 }
 .footer ul{
     text-align: center;
