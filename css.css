@@ -61,7 +61,6 @@ p.slideLeft{
 body{
     background-image: url("./images/background.svg");
     width: 100%;
-    aspect-ratio: 1920/1080;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -96,6 +95,7 @@ body > div > div.navbar > ul > li:nth-child(5) > a{
 }
 .footer{
     width: 100%;
+    margin-top: 10%;
 }
 .footer ul{
     text-align: center;
