@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 .glaven{
-    width: 100%;
+    width: 70%;
     margin: auto;
 }
 body > div > div.sredina > div.introduction > h1{
@@ -62,9 +62,7 @@ body{
     background-image: url("./images/background.svg");
     width: 100%;
     background-position: center;
-    background-repeat: no-repeat;
     background-size: cover;
-    min-width: 500px;
 }
 li, a, button{
     font-family: "Montserrat", sans-serif;
@@ -95,7 +93,7 @@ body > div > div.navbar > ul > li:nth-child(5) > a{
 }
 .footer{
     width: 100%;
-    margin-top: 20%;
+    margin-top: 15%;
 }
 .footer ul{
     text-align: center;
