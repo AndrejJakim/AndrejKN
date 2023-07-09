@@ -378,8 +378,10 @@ body > div > section > div.container > div.contactInfo > div:nth-child(3) > div.
 .slikaLevo{
     width: 45%;
     height: auto;
+    margin-left: 5%;
 }
 .slikaDesno{
     width: 45%;
     height: auto;
+    margin-right: 4%;
 }
