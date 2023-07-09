@@ -95,6 +95,7 @@ body > div > div.navbar > ul > li:nth-child(5) > a{
 }
 .footer{
     width: 100%;
+    margin-top: 25%;
 }
 .footer ul{
     text-align: center;
