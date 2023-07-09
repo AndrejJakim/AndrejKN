@@ -194,6 +194,7 @@ button:hover{
     justify-content: center;
     align-items: center;
     margin-top: 30px;
+    animation: slideLeft 1s linear forwards;
 }
 .container .contactInfo{
     width: 50%;
